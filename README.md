@@ -9,7 +9,7 @@ This study set out to compare induced sputum soluble mediator profiles between e
 **2_COPD_ECig_Integration:** Integration of e-cigarette user data into the dataset, including batch correction, and analysis of similarities and differences between e-cigarette users and participants with COPD via correlation networks, hierarchical clustering, and Mahalanobis distance. 
 
 
-Publication:
+# Publication:
 
 PMID: 41801994
 
