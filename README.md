@@ -15,4 +15,6 @@ PMID: 41801994
 
 Hickman E, Dabbs W, Wells H, Barr RG, Woodruff P, Ohar J, Martinez FJ, Bowler R, Cooper CB, Curtis JL, Wells JM, Labaki WW, Jaspers I, Rager JE, Alexis NE. Similarity of sputum mediator signatures between e-cigarette users and COPD depends on GOLD stage and type of e-cigarette: a pilot study. PLoS One. 2026 Mar 9;21(3):e0343940. doi: 10.1371/journal.pone.0343940. 
 
+**Soluble mediator correlation matrices within groups and similarities across COPD groups
+
 <img width="2254" height="3206" alt="journal pone 0343940 g002" src="https://github.com/user-attachments/assets/fee19532-dc4c-41a1-9e49-82baed687221" />
